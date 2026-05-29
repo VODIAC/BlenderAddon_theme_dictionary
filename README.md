@@ -83,12 +83,7 @@ The add-on includes Chinese translation support for a friendlier experience in B
 
 ### Demo Video
 
-<video controls width="100%" poster="./demo/%E4%B8%BB%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C%E5%9B%BE.jpg">
-  <source src="./demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. Open the demo video here: ./demo/demo.mp4
-</video>
 
-[Open demo video](./demo/demo.mp4)
 
 ### Main Interface
 
