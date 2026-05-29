@@ -83,7 +83,7 @@ The add-on includes Chinese translation support for a friendlier experience in B
 
 ### Demo Video
 
-
+https://github.com/user-attachments/assets/f70d34a1-1724-4765-9f18-81aac8c22f33
 
 ### Main Interface
 
