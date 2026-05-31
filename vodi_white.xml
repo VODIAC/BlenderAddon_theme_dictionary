@@ -269,10 +269,10 @@
         <wcol_pie_menu>
           <ThemeWidgetColors
             outline="#cbd9eaff"
-            outline_sel="#0b7dffff"
+            outline_sel="#0c7dffff"
             inner="#f8fbfff2"
             inner_sel="#0b7dffff"
-            item="#40516aff"
+            item="#3a8be6cc"
             text="#172033"
             text_sel="#ffffff"
             show_shaded="TRUE"
@@ -310,7 +310,7 @@
             show_shaded="FALSE"
             shadetop="2"
             shadedown="-1"
-            roundness="0.3"
+            roundness="0.5"
             >
           </ThemeWidgetColors>
         </wcol_menu_item>
@@ -364,7 +364,7 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#ff475eff"
+            error="#ffd9deff"
             warning="#ffb020ff"
             info="#0b7dffff"
             success="#2c8dffff"
@@ -488,18 +488,18 @@
     <view_3d>
       <ThemeView3D
         grid="#c3ccd966"
-        grid_major="#acb4cc9c"
-        clipping_border_3d="#8fa4c0aa"
+        grid_major="#545454ff"
+        clipping_border_3d="#e8eef580"
         wire="#1a2333"
         wire_edit="#1a2433"
         edge_width="1"
-        gp_wire_edit="#7e94b080"
+        gp_wire_edit="#99999980"
         gp_vertex="#263142"
         gp_vertex_select="#ff7a00"
         gp_vertex_size="3"
         text_grease_pencil="#20b2aa"
-        object_selected="#ff7a00"
-        object_active="#ff7a00"
+        object_selected="#ff4c00"
+        object_active="#ffb800"
         camera="#090a0d"
         empty="#5d708a"
         light="#f0b84c55"
@@ -510,7 +510,7 @@
         edge_select="#ff7a00"
         edge_mode_select="#ffd166"
         face="#2e30331a"
-        face_select="#0b7dff30"
+        face_select="#0b7dff0d"
         face_mode_select="#ff9f4030"
         facedot_size="4"
         face_back="#ff475ea0"
@@ -534,8 +534,8 @@
         nurb_vline="#803060"
         nurb_sel_uline="#f0ff40"
         nurb_sel_vline="#f090a0"
-        bone_pose="#50c8ff"
-        bone_pose_active="#8cffff"
+        bone_pose="#80d7ff"
+        bone_pose_active="#80ffff"
         bone_solid="#e9eef7"
         bone_locked_weight="#ff000080"
         before_current_frame="#ff5c5c"
